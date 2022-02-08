@@ -1,0 +1,2 @@
+- tutorial php oop dari kelas 'Programmer Zaman Now' (full access class 'Udemy')
+- folder 'data' berisi class-class nya, termasuk properties dan method nya.
