@@ -13,6 +13,7 @@ class Programmer
 class BackendProgrammer extends Programmer{}
 class FrontendProgrammer extends Programmer{}
 
+
 class Company
 {
   public Programmer $programmer;
